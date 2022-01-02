@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-public class NewClass
+public class Weapons
 {
     private List<int> weapons = new List<int>();
     private int equiped = -1;
